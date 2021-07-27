@@ -52,4 +52,16 @@ Website: <https://www.andernach.de/aktuelles/aktuelle-meldungen/busshuttle-aw/>
   
 <br/>
   
+## Neuwied (bis 30.07.2021) <sup>*</sup>
+---
+Hinfahrt: täglich 09:00  
+Rückfahrt: 18:00  
+Abfahrt/Karte: [Bahnhof Neuwied](https://goo.gl/maps/8dTQpVC9q32FmC2e7)  
+Rückfahrt/Karte: [Römervilla, Ahrweiler](https://goo.gl/maps/5xtkq2s4H1ajMTpR7)  
+Website: <https://www.facebook.com/kreisneuwied/posts/1945031095651819>  
+
+*Ort:* Ahrweiler
+  
+<br/>
+  
 \* Alle Angaben ohne Gewähr (kann sich ändern, Aktualisierungen der Websites der Anbieter möglich)
