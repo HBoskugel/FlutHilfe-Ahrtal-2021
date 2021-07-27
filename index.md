@@ -18,7 +18,7 @@
 
 ### Allgemeinverfügungen
 
-#### [Bad Neuenahr](https://add.rlp.de/fileadmin/add/Hochwasser/20210726_-_Allgemeinverfuegung_Bad_Neuenahr.pdf)
+#### [Bad Neuenahr](https://add.rlp.de/fileadmin/add/Hochwasser/20210726_-_Allgemeinverfuegung_Bad_Neuenahr.pdf) *vom 26.07.2021*
 
 Die Nutzung der Straßen von Bad Neuenahr-Ahrweiler ist zum Zwecke des Individualverkehrs sowie sonstiger potentiell behindernder
 Zwecke für den **Zeitraum zwischen dem 27. und 30.07.2021 in der
@@ -30,7 +30,7 @@ Infrastruktur und der unverzichtbaren Versorgung der Bevölkerung
 Als Maßnahme der Müllabfuhr gilt auch die Leerung und Wartung
 von chemischen Toiletten und Duschkabinen. 
 
-#### [Dernau, Rech](https://add.rlp.de/fileadmin/add/Hochwasser/20210726_-_Allgemeinverfuegung_Dernau___Rech.pdf)
+#### [Dernau, Rech](https://add.rlp.de/fileadmin/add/Hochwasser/20210726_-_Allgemeinverfuegung_Dernau___Rech.pdf) *vom 26.07.2021*
 
 Die Nutzung der Straßen von Dernau und Rech ist zum Zwecke des
 Individualverkehrs sowie sonstiger potentiell behindernder Zwecke
