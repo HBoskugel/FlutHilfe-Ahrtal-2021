@@ -21,4 +21,6 @@ Rückfahrt: 17:30 Uhr, ab Bad Neuenahr-Ahrweiler, Haltepunkt variiert tagesaktue
 Abfahrt/Karte: [Koblenz, Zentralplatz, Bussteig A](https://www.google.de/maps/place/Zentralpl.,+56068+Koblenz/@50.3590678,7.5952525,200m/data=!3m1!1e3!4m5!3m4!1s0x47be7ca52df7dba3:0x9fb4cfe20f131db2!8m2!3d50.358586!4d7.5960616)  
 Website: https://www.koveb.de/verkehrs-infos/koveb-helfer-busshuttle/
 
-* Alle Angaben ohne Gewähr (kann sich ändern, Aktualisierungen der Websites der Anbieter möglich)
+<br/>
+  
+\* Alle Angaben ohne Gewähr (kann sich ändern, Aktualisierungen der Websites der Anbieter möglich)
