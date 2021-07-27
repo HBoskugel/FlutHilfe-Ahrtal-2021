@@ -46,3 +46,12 @@ Als Maßnahme der Müllabfuhr gilt auch die Leerung und Wartung
 von chemischen Toiletten und Duschkabinen.
 
 [Quelle](https://add.rlp.de/de/aktuelles/detail/news/News/detail/individualverkehr-in-dernau-rech-und-bad-neuenahr-ahrweiler-bis-30-juli-weiterhin-untersagt-anwo/)
+
+<br/>
+
+### Weitere Informationen
+
+- für [Helfer](links.volunters.md)
+- für [Betroffene](links.victims.md)
+
+Liebe Helfer, schaut auch mal unter "[für Betroffene](links.victims.md)" und gebt Informationen weiter 😉
