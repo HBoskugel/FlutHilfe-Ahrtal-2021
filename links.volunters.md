@@ -1,6 +1,6 @@
 # Links für Helfer
 
-## Versicherung
+## Zusätzliche kostenlose Versicherung
 ---
 Kostenloser Unfallschutz für freiwillige Fluthelfende  
 https://www.lvm.de/fluthelfer
