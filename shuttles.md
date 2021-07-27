@@ -9,8 +9,23 @@ Anfahrt/Karte: [Einfahrt über A61, Ausfahrt Grafschaft-Ringen](https://www.goog
 Hotline: +49 1514 3131662  
 E-Mail: info@helfer-shuttle.de  
 Facebook: https://facebook.com/Helfershuttle  
-Website: https://helfer-shuttle.de
+Website: https://helfer-shuttle.de  
 
+*Orte:*  
+Ahrbrück  
+Ahrweiler  
+Altenahr  
+Altenburg  
+Bachem  
+Bad Neuenahr  
+Dernau  
+Heimersheim  
+Kreuzberg  
+Marienthal  
+Mayschoß  
+Rech  
+Walporzheim
+  
 <br/>
 
 ## koveb Shuttle ab Koblenz (bis 31.07.2021) <sup>*<sup>
@@ -19,8 +34,10 @@ Kapazität: 85 Helfer
 Hinfahrt: täglich 09:30  
 Rückfahrt: 17:30 Uhr, ab Bad Neuenahr-Ahrweiler, Haltepunkt variiert tagesaktuell - es gilt Ausstiegshalt morgens = Einstiegshalt abends  
 Abfahrt/Karte: [Koblenz, Zentralplatz, Bussteig A](https://www.google.de/maps/place/Zentralpl.,+56068+Koblenz/@50.3590678,7.5952525,200m/data=!3m1!1e3!4m5!3m4!1s0x47be7ca52df7dba3:0x9fb4cfe20f131db2!8m2!3d50.358586!4d7.5960616)  
-Website: https://www.koveb.de/verkehrs-infos/koveb-helfer-busshuttle/
+Website: https://www.koveb.de/verkehrs-infos/koveb-helfer-busshuttle/  
 
+*Ort:* Bad Neuenahr-Ahrweiler
+  
 <br/>
   
 ## Andernach (bis 02.08.2021) <sup>*</sup>
@@ -29,7 +46,9 @@ Hinfahrt: täglich 08:00
 Rückfahrt: 16:30  
 Abfahrt/Karte: [Bahnhof Andernach](https://goo.gl/maps/EySsR42DfzD2cwNb6)  
 Rückfahrt: [Sebastianstraße 158 (Aral-Tankstelle), Ahrweiler](https://goo.gl/maps/LNuPJCvMtGgeGytV6)  
-Website: https://www.andernach.de/aktuelles/aktuelle-meldungen/busshuttle-aw/
+Website: https://www.andernach.de/aktuelles/aktuelle-meldungen/busshuttle-aw/  
+
+*Ort:* Ahrweiler
   
 <br/>
   
