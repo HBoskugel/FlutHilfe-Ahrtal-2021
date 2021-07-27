@@ -8,6 +8,8 @@
 ## ❗❗❗ **Wichtiger Hinweis** ❗❗❗
 ---
 
+### 🙂 Die Shuttle-Services dürfen auch während der Allgemeinverfügung fahren 🙂
+
 #### Fahrt nicht in das Katastrophengebiet ein. Meldet Euch bitte an den Sammelstellen der [Shuttle-Services](shuttles.md) (aktuell 3 Standorte)! Von dort werdet Ihr an die entsprechenden Orte gebracht.
 #### Wir benötigen die Wege und Straßen für die Einsatz- und Transportfahrzeuge!
 
