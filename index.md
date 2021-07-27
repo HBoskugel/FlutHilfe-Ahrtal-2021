@@ -12,3 +12,32 @@
 <br/>
 
 ## **Aktuelles**
+
+### Allgemeinverfügungen
+
+#### [Bad Neuenahr](https://add.rlp.de/fileadmin/add/Hochwasser/20210726_-_Allgemeinverfuegung_Bad_Neuenahr.pdf)
+
+Die Nutzung der Straßen von Bad Neuenahr-Ahrweiler ist zum Zwecke des Individualverkehrs sowie sonstiger potentiell behindernder
+Zwecke für den **Zeitraum zwischen dem 27. und 30.07.2021 in der
+Zeit zwischen 10:00 Uhr und 18:00 Uhr** untersagt.  
+
+Hiervon ausgenommen sind Anwohner und Maßnahmen der Einsatzkräfte und Verwaltungsbehörden sowie der Müllabfuhr. Als Einsatzkräfte gelten auch Mitarbeiter von Unternehmen, welche Aufgaben zur Aufrechterhaltung oder Wiederherstellung der kritischen
+Infrastruktur und der unverzichtbaren Versorgung der Bevölkerung
+(z.B. Wasser, Strom, Lebensmittel und Medikamente) wahrnehmen.
+Als Maßnahme der Müllabfuhr gilt auch die Leerung und Wartung
+von chemischen Toiletten und Duschkabinen. 
+
+#### [Dernau, Rech](https://add.rlp.de/fileadmin/add/Hochwasser/20210726_-_Allgemeinverfuegung_Dernau___Rech.pdf)
+
+Die Nutzung der Straßen von Dernau und Rech ist zum Zwecke des
+Individualverkehrs sowie sonstiger potentiell behindernder Zwecke
+für den **Zeitraum zwischen dem 27.07. und 30.07.2021 in der Zeit
+zwischen 10:00 Uhr und 18:00 Uhr** untersagt.  
+
+Hiervon ausgenommen sind Anwohner und Maßnahmen der Einsatzkräfte und Verwaltungsbehörden sowie der Müllabfuhr. Als Einsatzkräfte gelten auch Mitarbeiter von Unternehmen, welche Aufgaben zur Aufrechterhaltung oder Wiederherstellung der kritischen
+Infrastruktur und der unverzichtbaren Versorgung der Bevölkerung
+(z.B. Wasser, Strom, Lebensmittel und Medikamente) wahrnehmen.
+Als Maßnahme der Müllabfuhr gilt auch die Leerung und Wartung
+von chemischen Toiletten und Duschkabinen.
+
+[Quelle](https://add.rlp.de/de/aktuelles/detail/news/News/detail/individualverkehr-in-dernau-rech-und-bad-neuenahr-ahrweiler-bis-30-juli-weiterhin-untersagt-anwo/)
