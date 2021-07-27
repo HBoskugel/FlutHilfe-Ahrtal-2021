@@ -1,2 +1,2 @@
-index
-  shuttles
+index.md
+  shuttles.md
