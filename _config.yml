@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+url: "https://hboskugel.github.io/FlutHilfe-Ahrtal-2021/" 
 plugins:
   - jekyll-sitemap
