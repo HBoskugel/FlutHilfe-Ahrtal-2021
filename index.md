@@ -4,7 +4,7 @@
 
 <br/>
 
-## **Wichtiger Hinweis** :heavy_exclamation_mark:
+## ❗❗❗ **Wichtiger Hinweis** ❗❗❗
 
 #### Fahrt nicht in das Katastrophengebiet ein. Meldet Euch bitte an den Sammelstellen der Shuttle-Services! Von dort werdet Ihr an die entsprechenden Orte gebracht.
 #### Wir benötigen die Wege und Straßen für die Einsatz- und Transportfahrzeuge!
