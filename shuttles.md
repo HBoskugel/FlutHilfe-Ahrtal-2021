@@ -23,4 +23,14 @@ Website: https://www.koveb.de/verkehrs-infos/koveb-helfer-busshuttle/
 
 <br/>
   
+## Andernach (bis 02.08.2021) <sup>*</sup>
+---
+Hinfahrt: täglich 08:00  
+Rückfahrt: 16:30  
+Abfahrt/Karte: [Bahnhof Andernach](https://goo.gl/maps/EySsR42DfzD2cwNb6)  
+Rückfahrt: [Sebastianstraße 158 (Aral-Tankstelle), Ahrweiler](https://goo.gl/maps/LNuPJCvMtGgeGytV6)  
+Website: https://www.andernach.de/aktuelles/aktuelle-meldungen/busshuttle-aw/
+  
+<br/>
+  
 \* Alle Angaben ohne Gewähr (kann sich ändern, Aktualisierungen der Websites der Anbieter möglich)
