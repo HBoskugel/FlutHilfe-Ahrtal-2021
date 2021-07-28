@@ -8,7 +8,7 @@
 
 ## Geborgenes Auto wiederfinden
 ---
-<https://kreis-ahrweiler.de/landkreis/wo-steht-mein-fahrzeug-kennzeichenabfrage/>
+<https://kreis-ahrweiler.de/landkreis/wo-steht-mein-fahrzeug-kennzeichenabfrage>
 
 <br/>
 
@@ -30,4 +30,4 @@ Hotline für Betroffene der Hochwasser-Katastrophe: +49-2151-7429035
 ## Restauration von Bildern/Fotos
 ---
 **[Tina Löhr](https://www.facebook.com/groups/268933088330855/user/1628523698/)**  
-<https://www.facebook.com/groups/268933088330855/posts/278788770678620/>
+<https://www.facebook.com/groups/268933088330855/posts/278788770678620>
