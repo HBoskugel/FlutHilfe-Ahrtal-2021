@@ -24,3 +24,10 @@ https://www.primagas.de/hochwasser-hilfe
 ---
 **AEG**  
 https://www.aeg.de/local/news/flutopferhilfe-2021
+
+<br/>
+
+## Restauration von Bildern/Fotos
+---
+**[Tina Löhr](https://www.facebook.com/groups/268933088330855/user/1628523698/)**  
+<https://www.facebook.com/groups/268933088330855/posts/278788770678620/>
