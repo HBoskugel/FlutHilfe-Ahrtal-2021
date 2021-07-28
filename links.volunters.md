@@ -9,4 +9,4 @@ Bekannte [Standorte](catering.md) für Verpflegung
 ## Zusätzliche kostenlose Versicherung
 ---
 Kostenloser Unfallschutz für freiwillige Fluthelfende  
-https://www.lvm.de/fluthelfer
+<https://www.lvm.de/fluthelfer>
