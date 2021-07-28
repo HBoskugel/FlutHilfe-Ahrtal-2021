@@ -31,6 +31,9 @@ Hotline für Betroffene der Hochwasser-Katastrophe: +49-2151-7429035
 ---
 Gratis Paßbilder  
 **[Michelle Kohlstedt](https://www.facebook.com/groups/268933088330855/user/595026891/)**  
+Email: info@lorenakraemer.de  
+Telefon: +49-2486-800649  
+Web: www.lorenakraemer.de  
 <https://www.facebook.com/groups/268933088330855/posts/278016617422502>
 
 <br/>
