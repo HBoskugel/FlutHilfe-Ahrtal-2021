@@ -27,6 +27,14 @@ Hotline für Betroffene der Hochwasser-Katastrophe: +49-2151-7429035
 
 <br/>
 
+## Paßbilder
+---
+Gratis Paßbilder
+**[Michelle Kohlstedt](https://www.facebook.com/groups/268933088330855/user/595026891/)**  
+<https://www.facebook.com/groups/268933088330855/posts/278016617422502>
+
+<br/>
+
 ## Restauration von Bildern/Fotos
 ---
 **[Tina Löhr](https://www.facebook.com/groups/268933088330855/user/1628523698/)**  
