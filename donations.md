@@ -18,9 +18,9 @@
 ## Geldspenden
 ---
 
-### DRK
+### DRK (allgemein)
 <https://www.drk.de/hochwasser>  
 
-### Mastercard  
+### Mastercard (allgemein)
 Mastercard spendet 500.000 EUR plus Verdoppelung der privaten Spenden, das Geld geht an das DRK  
 <https://mastercardgermany.worldcoo.com/8e50dc98-3a16-4712-9e43-0da31fd74139>
