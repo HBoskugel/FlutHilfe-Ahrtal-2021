@@ -1,4 +1,4 @@
-[Start](./index.md) | [Shuttles](./shuttles.md) | [Verpflegung](catering.md) | [Infos für Helper](./links.volunters.md) | [Infos für Betroffene](./links.victims.md)
+[Start](./index.md) | [Shuttles](./shuttles.md) | [Verpflegung](catering.md) | [Infos für Helfer](./links.volunters.md) | [Infos für Betroffene](./links.victims.md)
 
 <br/>
 
