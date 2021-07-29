@@ -56,6 +56,10 @@ von chemischen Toiletten und Duschkabinen.
 ### Weitere Informationen
 
 - für [Helfer](links.volunters.md)
+  - [Shuttles](./shuttles.md)
+  - [Verpflegung](catering.md)
+  - [Unterkünfte](accomodations.md)
 - für [Betroffene](links.victims.md)
+- für [Spenden](./donations.md)
 
 Liebe Helfer, schaut auch mal unter "[für Betroffene](links.victims.md)" und gebt Informationen weiter 😉
