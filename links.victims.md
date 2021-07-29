@@ -4,6 +4,33 @@
 
 # Informationen für Betroffene
 
+## Soforthilfe (1.000 - 2.000 EUR)
+---
+Der Kreis Ahrweiler zahlt aus Spendengeldern eine Soforthilfe zwischen 1.000 und 2.000 EUR aus. 
+
+
+⚠ Wichtig: Diese erste Soforthilfe dient dazu, kurzfristig Geld für das Nötigste zu haben.  
+Sie dient nicht als Aufbauhilfe oder um die entstandenen Schäden abzudecken.  
+**Die Soforthilfe erfolgt unabhängig von der Soforthilfe des Landes Rheinland-Pfalz.**
+Folgende Angaben werden benötigt:  
+👉 Name  
+👉 Vorname  
+👉 Geburtsdatum  
+👉 Meldeadresse (die alte, auch wenn man im Moment eine andere Unterkunft hat)  
+👉 Angabe ob Privathaushalt oder Gewerbebetrieb; falls Privathaushalt, die Anzahl der im Haushalt lebenden Personen  
+👉 Telefonnummer oder Mailadresse für Rückfragen sowie  
+👉 eine Bankverbindung. Barauszahlungen oder Schecks sind leider nicht möglich. 
+
+Die Beantragung der Soforthilfe des Kreises Ahrweiler ist über die eingerichteten Hotlines der
+Kreisverwaltung Ahrweiler schnell und unbürokratisch möglich. Die Hotlines sind unter 02641-975-960 und
+02641-975-961 von Montag bis Sonntag in der Zeit von 9 bis 20 Uhr erreichbar. Anträge sind auch per Mail
+möglich: soforthilfe@kreis-ahrweiler.de
+
+<https://www.facebook.com/KreisverwaltungAhrweiler/posts/4449399071779309>  
+<https://www.facebook.com/KreisverwaltungAhrweiler/posts/4461069443945605>
+
+<br/>
+
 ## Spendenlager
 ---
 <https://frag-ruth.de/index.php?title=Spendenlager>
