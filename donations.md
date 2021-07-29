@@ -18,6 +18,13 @@
 ## Geldspenden
 ---
 
+### Kreisparkasse Ahrweiler (Kreis Ahrweiler)
+Von den Spendengeldern wurden schon mehr als 2,5 Mio EUR direkt an Betroffene an Ersthilfe ausgezahlt:
+Kreissparkasse Ahrweiler  
+IBAN DE 86 5775 1310 0000 3394 57  
+Stichwort „ Hochwasserhilfe“  
+<https://www.facebook.com/KreisverwaltungAhrweiler/posts/4461069443945605> 
+
 ### DRK (allgemein)
 <https://www.drk.de/hochwasser>  
 
