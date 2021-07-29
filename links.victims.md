@@ -40,7 +40,8 @@ möglich: soforthilfe@kreis-ahrweiler.de
 
 ## Spendenlager
 ---
-<https://frag-ruth.de/index.php?title=Spendenlager>
+<https://frag-ruth.de/index.php?title=Spendenlager>  
+<https://www.flut-wiki.de/index.php?title=Ausgabestelle_%2F_Spendenlager>  
 
 <br/>
 
