@@ -41,6 +41,6 @@ Kostenloser Unfallschutz für freiwillige Fluthelfende
 
 <br/>
 
-[Start](/)
+[Start](./)
 
 <br/>
