@@ -4,6 +4,12 @@
 
 # Informationen für Betroffene
 
+## Hotlines
+---
+<https://kreis-ahrweiler.de/landkreis/lagebericht-starkregen-und-hochwasser-an-der-ahr>
+
+<br/>
+
 ## Soforthilfe (1.000 - 2.000 EUR)
 ---
 Der Kreis Ahrweiler zahlt aus Spendengeldern eine Soforthilfe zwischen 1.000 und 2.000 EUR aus. 
