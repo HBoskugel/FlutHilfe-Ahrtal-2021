@@ -11,7 +11,8 @@ Der Kreis Ahrweiler zahlt aus Spendengeldern eine Soforthilfe zwischen 1.000 und
 
 ⚠ Wichtig: Diese erste Soforthilfe dient dazu, kurzfristig Geld für das Nötigste zu haben.  
 Sie dient nicht als Aufbauhilfe oder um die entstandenen Schäden abzudecken.  
-**Die Soforthilfe erfolgt unabhängig von der Soforthilfe des Landes Rheinland-Pfalz.**
+**Die Soforthilfe erfolgt unabhängig von der Soforthilfe des Landes Rheinland-Pfalz.**  
+
 Folgende Angaben werden benötigt:  
 👉 Name  
 👉 Vorname  
