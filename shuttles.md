@@ -26,7 +26,7 @@ Dernau
 Heimersheim  
 Kreuzberg  
 Marienthal  
-Mayschoß  
+Mayschoß (inkl. Laach und Reimerzhoven) 
 Rech  
 Walporzheim
   
