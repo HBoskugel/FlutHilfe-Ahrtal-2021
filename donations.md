@@ -19,7 +19,7 @@
 ---
 
 ### Kreisparkasse Ahrweiler (Kreis Ahrweiler)
-Von den Spendengeldern wurden schon mehr als 2,5 Mio EUR direkt an Betroffene an Sofothilfe (1.000 - 2.000 EUR) ausgezahlt  
+Von den Spendengeldern wurden schon mehr als 2,5 Mio EUR direkt an Betroffene an Sofothilfe (je 1.000 - 2.000 EUR) ausgezahlt  
 
 Kreissparkasse Ahrweiler  
 IBAN DE 86 5775 1310 0000 3394 57  
