@@ -31,7 +31,7 @@ Rech
 Walporzheim
   
 <br/>
-
+<!--
 ## koveb Shuttle ab Koblenz (bis 31.07.2021) <sup>*<sup>
 ---
 Kapazität: 85 Helfer  
@@ -69,3 +69,4 @@ Website: <https://www.facebook.com/kreisneuwied/posts/1945031095651819>
 <br/>
   
 \* Alle Angaben ohne Gewähr (kann sich ändern, Aktualisierungen der Websites der Anbieter möglich)
+-->
