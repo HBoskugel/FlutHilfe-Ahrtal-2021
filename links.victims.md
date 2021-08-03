@@ -10,6 +10,15 @@
 
 <br/>
 
+## Anwaltverein e.V. - kostenlose Orientierungsberatung
+---
+Passende Anwältinnen und Anwälte für eine kostenlose Orientierungsberatung vermittelt  
+Telefon: 030-726152-211 (Montag bis Freitag, 10-12 und 14-16 Uhr)  
+Email: buergerhotline-hochwasser@anwaltverein.de  
+<https://www.facebook.com/deutscheranwaltverein/posts/4489124104452754>
+
+<br/>
+
 ## Soforthilfe (1.000 - 2.000 EUR)
 ---
 Der Kreis Ahrweiler zahlt aus Spendengeldern eine Soforthilfe zwischen 1.000 und 2.000 EUR aus. 
