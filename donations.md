@@ -29,6 +29,15 @@ Stichwort: „ Hochwasserhilfe“
 
 <https://www.facebook.com/KreisverwaltungAhrweiler/posts/4461069443945605> 
 
+### Jugendherberge Bad Neuenahr-Ahrweiler
+
+Die Jugendherbergen  
+IBAN: DE17 5405 1550 0000 0308 74  
+Bank: Kreissparkasse Kusel  
+Stichwort: Hochwasser  
+
+<https://aktuelles.diejugendherbergen.de/flutkatastrophe-im-ahrtal/>
+
 ### Förderverein Kindergarten St. Johannes Apostel (Dernau)
 IBAN: DE66 5775 1310 0000 1080 84  
 BIC: MALADE51AHR  
